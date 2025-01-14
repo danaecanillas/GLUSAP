@@ -5,7 +5,8 @@ GLUSAP és una aplicació interactiva desenvolupada amb Python i Dash per monito
 El projecte integra **SimGlucose**, una eina robusta per simular dinàmiques de glucosa en pacients diabètics, basada en models validats científicament.
 
 Referència:
-Jinyu Xie. Simglucose v0.2.1 (2018) [Online]. Available: https://github.com/jxx123/simglucose. Accessed on: Month-Date-Year.
+Jinyu Xie. Simglucose v0.2.1 (2018) [Online]. 
+Disponible a: https://github.com/jxx123/simglucose. 
 
 
 
