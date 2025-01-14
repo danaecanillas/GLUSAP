@@ -2,6 +2,13 @@
 
 GLUSAP és una aplicació interactiva desenvolupada amb Python i Dash per monitoritzar, simular, i predir nivells de glucosa en pacients diabètics utilitzant dades reals i simulades.
 
+El projecte integra **SimGlucose**, una eina robusta per simular dinàmiques de glucosa en pacients diabètics, basada en models validats científicament.
+
+Referència:
+Jinyu Xie. Simglucose v0.2.1 (2018) [Online]. Available: https://github.com/jxx123/simglucose. Accessed on: Month-Date-Year.
+
+
+
 ## **Funcionalitats**
 - **Predicció de Glucosa**: Visualitza les prediccions generades per models LSTM per a pacients específics.
 - **Simulacions**: Explora simulacions de nivells de glucosa en diferents categories (heterogènies, homogènies baixes i altes).
