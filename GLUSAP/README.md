@@ -20,3 +20,30 @@ GLUSAP és una aplicació interactiva desenvolupada amb Python i Dash per monito
    ```bash
    git clone https://github.com/danaecanillas/GLUSAP.git
    cd GLUSAP
+   ```
+
+### **Accés a les Dades**
+Per accedir a les dades utilitzades pel projecte (tant les dades simulades com les reals), cal contactar amb l'autora:
+Dànae Canillas
+
+### **Estructura del projecte**
+  ```plaintext
+GLUSAP/
+├── data/                      # Conté dades reals i processades
+├── src/                       # Codi font
+│   ├── models/                  
+│   ├── data_loader.py                 
+│   ├── main.py                
+│   ├── report_dades.py                
+│   ├── report_dades_reals.py                 
+│   ├── simulation.py                 
+│   └── app.py                 # Fitxer principal de l'aplicació Dash
+├── README.md                  # Documentació del projecte
+  ```
+
+### **Com Utilitzar**
+Executa l'aplicació:
+```bash
+   python src/app.py
+```
+Accedeix al dashboard mitjançant el navegador a http://127.0.0.1:8050.
