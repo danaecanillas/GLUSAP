@@ -1,13 +1,14 @@
 # **GLUSAP - Dashboard per a la Predicció de Glucosa**
 
-GLUSAP és una aplicació interactiva desenvolupada amb Python i Dash per monitoritzar, simular, i predir nivells de glucosa en pacients diabètics utilitzant dades reals i simulades.
+GLUSAP és una aplicació interactiva desenvolupada amb Python i Dash per monitoritzar, simular, i predir nivells de glucosa en pacients diabètics utilitzant dades reals i simulades. 
+
+<img src="img/app.png" alt="Vista de la pestanya Predicció" width="900">
 
 El projecte integra **SimGlucose**, una eina robusta per simular dinàmiques de glucosa en pacients diabètics, basada en models validats científicament.
 
 Referència:
 Jinyu Xie. Simglucose v0.2.1 (2018) [Online]. 
 Disponible a: https://github.com/jxx123/simglucose. 
-
 
 
 ## **Funcionalitats**
